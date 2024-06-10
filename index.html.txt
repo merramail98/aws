@@ -1,14 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta http-equiv="refresh" content="0; URL='https://www.softnotebooks.com'" />
+    <title>Redirecting...</title>
+</head>
 <body>
-
-
-
-<script>
-document.location.href = 'https://www.softnotebooks.com/'+window.location.href.split('#')[1];
-	
-</script>
-
-
+    <p>If you are not redirected automatically, follow this <a href="https://www.softnotebooks.com">link to softnotebooks.com</a>.</p>
 </body>
 </html>
